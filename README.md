@@ -1,5 +1,5 @@
 # VENDAS CRUD
-### Projeto de padrão Rest criando backend com spring para estudo, aplicando padrões de projeto e POO.
+Projeto de padrão Rest criando backend com spring para estudo, aplicando padrões de projeto e POO.
 
 ## Iniciando
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
